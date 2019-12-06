@@ -1,3 +1,6 @@
 Ryu
 ken
 Guile
+Sagat
+G
+Menat
