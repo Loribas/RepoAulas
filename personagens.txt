@@ -4,3 +4,6 @@ Guile
 Sagat
 G
 Menat
+Chun li
+Akuma
+Alex
