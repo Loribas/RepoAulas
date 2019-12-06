@@ -1,3 +1,6 @@
 Ryu
 ken
 Guile
+Chun li
+Akuma
+Alex
